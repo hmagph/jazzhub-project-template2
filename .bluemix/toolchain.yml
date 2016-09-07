@@ -13,6 +13,9 @@ required:
  - pipeline
  - webide
 
+owner: "project owner"
+project: "project name"
+
 ccm:
   service_id: customtool
   parameters:
